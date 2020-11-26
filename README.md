@@ -1,43 +1,52 @@
-# Lesson Title
+# Welcome to Flatiron School
 
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
+Welcome to Flatiron School! We're thrilled that you've joined our community of
+learners! 
 
-## Learning Goals
+The following content is designed for people who are passionate, curious,
+self-driven, and serious about learning. We are comrades in a never-ending quest
+for knowledge. While there are no shortcuts, we believe that by providing
+knowledge in an optimized order, reinforcing knowledge with hands-on, feedback
+driven practice, and providing space for discussion, you will learn quickly. Our
+goal is to provide the right materials, support and structure _you_ need to
+discover your own love for code.
 
-- [Check out this Readme on writing Learning Goals][goals]
+## Learning to Write Code
 
-## Introduction
+This is the beginning of our Software Engineering course, where you will go
+through everything from the basics of coding to building full-stack React
+web applications.
 
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
+So, where do we start? How do we know what is necessary to understand _first?_
+In this course, we're going to start with a simple idea - programming is like
+having a conversation, and just like learning to talk, we need to start by
+learning a few words and practicing them.
 
-## Contents
+Many people on joining Flatrion School have already spent some time dabbling
+with coding by using the amazing and plentiful resources all around the
+internet. In developing the content here, though, we make no assumptions. This
+content is designed for absolute beginners. Lessons build off each other,
+providing the tools and concepts necessary to complete future lessons.
 
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
+What we don't do, however, is dumb anything down. We believe in your infinite
+capacity to learn. We do our best to offer a curriculum that is clear,
+digestible, engaging, challenging, and deep. The curriculum you'll encounter on
+here is rigorous and will demand that you be patient and resourceful.
 
-Refer to [this guide for assistance when writing Readmes][readmes]
+## The Flatiron Community
+
+We don't believe in learning alone. As you make progress, expect to bump into
+other learners just like you, ready and willing to help each other succeed.
+Together, we can go further than we could ever go alone. We expect everyone here
+to be friendly, respectful, helpful, and nice.
 
 ## Conclusion
 
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
+The first part of this course will focus on readings and interactive examples.
+As you progress, you'll start to use the tools on your personal computer to
+build projects and test your knowledge. You're just getting started, and we're
+happy you're here. To proceed to the next lesson, press the "I'm Done" button on
+the right side of this page, then click "Next Lesson".
 
-## Resources
+Happy Learning!
 
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
-
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
-
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
