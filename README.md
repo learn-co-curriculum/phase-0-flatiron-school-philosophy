@@ -42,11 +42,10 @@ to be friendly, respectful, helpful, and nice.
 
 ## Conclusion
 
-The first part of this course will focus on readings and interactive examples.
-As you progress, you'll start to use the tools on your personal computer to
-build projects and test your knowledge. You're just getting started, and we're
-happy you're here. To proceed to the next lesson, press the "I'm Done" button on
-the right side of this page, then click "Next Lesson".
+The first part of this course will focus getting you set up for the course. Then,
+we will introduce some fundamental programming concepts. As you progress, you'll
+start to use the tools on your personal computer to build projects and test your
+knowledge. You're just getting started, and we're glad you're here.
 
 Happy Learning!
 
