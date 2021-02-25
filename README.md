@@ -42,7 +42,8 @@ to be friendly, respectful, helpful, and nice.
 
 ## Conclusion
 
-The first part of this course will focus getting you set up for the course. Then,
+The first part of this course will focus on getting your computer set up 
+with the tools and software necessary for the rest of the curriculum. Then,
 we will introduce some fundamental programming concepts. As you progress, you'll
 start to use the tools on your personal computer to build projects and test your
 knowledge. You're just getting started, and we're glad you're here.
