@@ -22,7 +22,7 @@ In this course, we're going to start with a simple idea - programming is like
 having a conversation, and just like learning to talk, we need to start by
 learning a few words and practicing them.
 
-Many people on joining Flatrion School have already spent some time dabbling
+Many people on joining Flatiron School have already spent some time dabbling
 with coding by using the amazing and plentiful resources all around the
 internet. In developing the content here, though, we make no assumptions. This
 content is designed for absolute beginners. Lessons build off each other,
