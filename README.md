@@ -1,7 +1,7 @@
 # Welcome
 
 Welcome to Flatiron School! We're thrilled that you've joined our community of
-learners! 
+learners!
 
 The following content is designed for people who are passionate, curious,
 self-driven, and serious about learning. We are comrades in a never-ending quest
@@ -42,11 +42,10 @@ to be friendly, respectful, helpful, and nice.
 
 ## Conclusion
 
-The first part of this course will focus on getting your computer set up 
+The first part of this course will focus on getting your computer set up
 with the tools and software necessary for the rest of the curriculum. Then,
 we will introduce some fundamental programming concepts. As you progress, you'll
 start to use the tools on your personal computer to build projects and test your
 knowledge. You're just getting started, and we're glad you're here.
 
 Happy Learning!
-
