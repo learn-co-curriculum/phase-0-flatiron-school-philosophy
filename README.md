@@ -28,10 +28,11 @@ internet. In developing the content here, though, we make no assumptions. This
 content is designed for absolute beginners. Lessons build off each other,
 providing the tools and concepts necessary to complete future lessons.
 
-What we don't do, however, is dumb anything down. We believe in your infinite
-capacity to learn. We do our best to offer a curriculum that is clear,
-digestible, engaging, challenging, and deep. The curriculum you'll encounter on
-here is rigorous and will demand that you be patient and resourceful.
+What we don't do, however, is oversimplify, or water anything down. We believe
+in your infinite capacity to learn. We do our best to offer a curriculum that is
+clear, digestible, engaging, challenging, and deep. The curriculum you'll
+encounter on here is rigorous and will demand that you be patient and
+resourceful.
 
 ## The Flatiron Community
 
