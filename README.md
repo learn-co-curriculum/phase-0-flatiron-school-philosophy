@@ -11,6 +11,18 @@ driven practice, and providing space for discussion, you will learn quickly. Our
 goal is to provide the right materials, support and structure _you_ need to
 discover your own love for code.
 
+Note: Completing the Software Engineering Prep curriculum is required for
+enrolled students to start at Flatiron School, but students can also access this
+material prior to applying. Please note that some of the resources mentioned are
+only available to enrolled students, such as community and technical coach
+support.
+
+If you’re researching the program and not yet enrolled, keep in mind that this
+is the same prep course enrolled students are working through so the material is
+detailed and extensive. We recommend that you just work through as much as you
+can and know that you will have time to revisit content should you go through
+our admissions process.
+
 ## Learning to Write Code
 
 This is the beginning of our Software Engineering course, where you will go
